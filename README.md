@@ -53,9 +53,17 @@ python gui.py
 5. Click **Start Reading** to begin listening.
 6. Click **Stop Reading** to stop the speech.
 
+## Demo Video
+A demo video showing how the application works is included below:
+
+**Video Link:** https://drive.google.com/file/d/1e7givRgL7lNfjmFvfwNlJFepoCCRnsSg/view?usp=sharing
+
+## Sample PDF
+The PDF used in the demo is attached to this repository as `sample.pdf`.
+
 ## Download
 
-Google Drive Download Link:
+Download the application from the link below
 
 [GOOGLE_DRIVE_LINK
 ](https://drive.google.com/file/d/1kvxowCI4wUcLFwrRMmAgd4TPigrHnAAH/view?usp=sharing)
